@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @buckypinkman
-- 👀 I’m interested in front-end development especially working with vue.js.. though i often work with laravel
-- 🌱 I’m currently learning algorithm & stuff, also planning to learn typescript & next.js..
+- 👀 I’m interested in fullstack development and agentic AI development
 - 💞️ I’m open to collaborate with your open source projects!
 - 📫 How to reach me -> rangga7765@gmail.com
 
